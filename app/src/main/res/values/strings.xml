@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnapPantry</string>
+    <string name="username_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="login_button">Log In</string>
+    <string name="snap_login">Continue with Snapchat</string>
+</resources>
